@@ -27,3 +27,18 @@ Depending on the speed of your USB disk, this step could take up to 30 minutes t
 
 ## Booting from the USB disk
 Reboot or start your mac and hold down the "Option" key until you see a boot menu and select the USB disk
+
+
+## Example output;
+
+```shell
+sudo /Applications/Install\ macOS\ Sierra.app/Contents/Resources/createinstallmedia --volume /Volumes/Install\ macOS\ Sierra/ --applicationpath /Applications/Install\ macOS\ Sierra.app --nointeraction
+Password:
+Erasing Disk: 0%... 10%... 20%... 30%...100%...
+Copying installer files to disk...
+Copy complete.
+Making disk bootable...
+Copying boot files...
+Copy complete.
+Done.
+```
