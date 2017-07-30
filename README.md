@@ -20,3 +20,8 @@ NOTE: Make sure you change the disk name if you named the disk different from th
 
 
 ``` sudo /Applications/Install\ macOS\ Sierra.app/Contents/Resources/createinstallmedia --volume /Volumes/Install\ macOS\ Sierra/ --applicationpath /Applications/Install\ macOS\ Sierra.app --nointeraction ```
+
+Depending on the speed of your USB disk this could take up to 30 minutes to complete...
+
+## Booting from the USB disk
+Reboot or start your mac and hold down the "Option" key until you see a boot menu and select the USB disk
