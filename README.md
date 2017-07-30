@@ -19,4 +19,4 @@ Open Terminal and copy paste the command below
 NOTE: Make sure you change the disk name if you named the disk different from the example below!
 
 
-` sudo /Applications/Install\ macOS\ Sierra.app/Contents/Resources/createinstallmedia --volume /Volumes/Install\ macOS\ Sierra/ --applicationpath /Applications/Install\ macOS\ Sierra.app --nointeraction
+``` sudo /Applications/Install\ macOS\ Sierra.app/Contents/Resources/createinstallmedia --volume /Volumes/Install\ macOS\ Sierra/ --applicationpath /Applications/Install\ macOS\ Sierra.app --nointeraction ```
