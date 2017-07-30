@@ -3,7 +3,7 @@
 ### Pre-requirements
 
 ## USB drive
-Preferable a USB3 drive (because of speed) with minimal 8GB of storage
+Preferable a USB3 drive (because of speed) with 8GB (recommended, more is not required) of storage
 
 ## Download sources
 Download Sierra from the Apple Store (this could take some time, the file is about 5GB big)
